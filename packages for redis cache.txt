@@ -1,0 +1,2 @@
+Microsoft.extension.caching.stackexchangeredis
+stackexchange.redis

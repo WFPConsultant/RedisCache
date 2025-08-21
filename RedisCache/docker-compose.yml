@@ -1,0 +1,15 @@
+﻿services:
+  rediscache:
+    image: rediscache
+    build:
+      context: ./RedisCache
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"  # Host:Container → exposes the app at http://localhost:8080
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"

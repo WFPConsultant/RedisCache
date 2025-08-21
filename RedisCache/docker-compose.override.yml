@@ -1,0 +1,7 @@
+services:
+  rediscache:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80  # Force HTTP only
+    ports:
+      - "8080:80"

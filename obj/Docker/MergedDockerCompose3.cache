@@ -1,0 +1,29 @@
+name: dockercompose9470636483220464409
+services:
+  redis:
+    image: redis
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+  rediscache:
+    build:
+      context: C:\Practice\RedisCache\RedisCache\RedisCache
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:80
+    image: rediscache
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose9470636483220464409_default

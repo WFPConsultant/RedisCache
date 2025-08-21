@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\RedisCache\\RedisCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\practice\\rediscache\\rediscache\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\practice\\rediscache\\rediscache\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\services\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\services\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\services\\caching\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\services\\caching\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\practice\\rediscache\\rediscache\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\practice\\rediscache\\rediscache\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|c:\\practice\\rediscache\\rediscache\\rediscache\\rediscache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CEC28FA-8ED0-F069-7044-C1EDF71FE05C}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\rediscache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RedisCache\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:05:09.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRedisCacheService.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\Caching\\IRedisCacheService.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Services\\Caching\\IRedisCacheService.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\Caching\\IRedisCacheService.cs",
+              "RelativeToolTip": "RedisCache\\Services\\Caching\\IRedisCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:28:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\Caching\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Services\\Caching\\RedisCacheService.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\Caching\\RedisCacheService.cs",
+              "RelativeToolTip": "RedisCache\\Services\\Caching\\RedisCacheService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:30:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-21T09:44:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Dockerfile",
+              "RelativeDocumentMoniker": "RedisCache\\Dockerfile",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Dockerfile",
+              "RelativeToolTip": "RedisCache\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-21T09:37:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-21T09:37:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RedisCache\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RedisCache\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T15:20:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "RedisCache\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:23:16.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisCache\\appsettings.json",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\appsettings.json",
+              "RelativeToolTip": "RedisCache\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T09:37:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\ProductDto.cs",
+              "RelativeToolTip": "RedisCache\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:21:00.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Models\\Product.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\Product.cs",
+              "RelativeToolTip": "RedisCache\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:20:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Models\\Category.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Models\\Category.cs",
+              "RelativeToolTip": "RedisCache\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:20:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Services\\ProductService.cs",
+              "RelativeToolTip": "RedisCache\\Services\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:20:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T10:25:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Program.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Program.cs",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\Program.cs",
+              "RelativeToolTip": "RedisCache\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:26:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RedisCache\\appsettings.Development.json",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\appsettings.Development.json",
+              "RelativeToolTip": "RedisCache\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T09:37:32.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-21T09:44:36.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedisCache.csproj",
+              "DocumentMoniker": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\RedisCache.csproj",
+              "RelativeDocumentMoniker": "RedisCache\\RedisCache.csproj",
+              "ToolTip": "C:\\Practice\\RedisCache\\RedisCache\\RedisCache\\RedisCache.csproj",
+              "RelativeToolTip": "RedisCache\\RedisCache.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T09:22:54.783Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
